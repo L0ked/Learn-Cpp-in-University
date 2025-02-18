@@ -52,5 +52,4 @@ int main() {
     cout << "\n-=\n";
     mat -= mat2;
     mat.print();
-
 }
